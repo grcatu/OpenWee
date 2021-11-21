@@ -4,7 +4,9 @@ OpenWee is an opensource device for low power wind applications with the ability
 https://lnkd.in/d8YjP7eh
 
 Some videos of OpenWee (spanish)
+
 https://youtu.be/2QIjn6buIME  (general description)
+
 https://youtu.be/IGGaL81Fv50  (working for water pumping system)
 
 
